@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(95, 38, 38);
+}
+.container {
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(245, 252, 245);
+}
+
+.recipes {
+    list-style: none;
+}
+
+a {
+    color: rgb(75, 38, 38);
+    text-decoration: none;
+}
+
+a:hover {
+    color: whitesmoke;
+    text-shadow: 1px 1px 3px black;
+}
