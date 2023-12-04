@@ -10,8 +10,18 @@ body {
     background-color: rgb(245, 252, 245);
 }
 
+
 .recipes {
     list-style: none;
+}
+
+.recipes li {
+    background-color: rgb(162, 211, 132);
+    margin-bottom: 8px;
+    padding: 5px 12px;
+    width: 100px;
+    text-align: center;
+    border-radius: 3px;
 }
 
 a {
